@@ -50,14 +50,13 @@ Bridge rectifier with filter:
 TABULAR COLUMN:
 Rectifier without filter
 
+<img width="1410" height="828" alt="image" src="https://github.com/user-attachments/assets/5e4551c3-717c-4f04-96b9-fe94c83be39a" />
 
 TABULAR COLUMN:
 
 Rectifier with filter
 
-<img width="1410" height="828" alt="image" src="https://github.com/user-attachments/assets/5e4551c3-717c-4f04-96b9-fe94c83be39a" />
 
-rectifire without filter
 
 <img width="1356" height="810" alt="image" src="https://github.com/user-attachments/assets/f9f6c095-b105-4457-b221-3b6199402f16" />
 
